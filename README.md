@@ -1,3 +1,9 @@
+# Spend Bill Gates' Money App with ReactJS
+
+### See Live: https://emrekhrmn.github.io/react-spend-money-app/
+
+![react-spend-money-app-ss](https://user-images.githubusercontent.com/59236526/166955957-cead6fd7-a88b-4569-a2eb-5bcdde6fbc8b.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
